@@ -5,7 +5,7 @@
 <title>Ishika Katiyar CV</title>
 </head>
 <body style="background-color:Plum;">
-<img align="right" src="C:\Users\ASHA\Desktop\IMG-20201209-WA0004.jpg" width="180px" height="230px">
+<img align="right" src="https://scontent-bom1-2.cdninstagram.com/v/t51.2885-19/s150x150/151033835_721086875262895_7325865782087425994_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com&_nc_cat=107&_nc_ohc=-zNdu_5Yn9AAX9RGqZo&edm=ABfd0MgBAAAA&ccb=7-4&oh=20aa0b0880e09307db54846aaabdff0c&oe=61A8D1F4&_nc_sid=7bff83" width="180px" height="230px">
 <h1 "style="color:black;">
 <b>ISHIKA KATIYAR</b>
 </h1>
